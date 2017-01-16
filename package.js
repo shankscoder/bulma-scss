@@ -1,10 +1,10 @@
 Package.describe({
-  name: 'chmanie:bulma-scss',
-  version: '0.1.2',
+  name: 'shankscoder:meteor-bulma-scss',
+  version: '0.3.1.1',
   // Brief, one-line summary of the package.
-  summary: 'This is an packaged scss version of the popular bulma css framework',
+  summary: 'This is an packaged scss version of the popular bulma css framework forked from chmanie:bulma-scss for frequent updates',
   // URL to the Git repository containing the source code for this package.
-  git: 'https://github.com/chmanie/bulma-scss',
+  git: 'https://github.com/shankscoder/bulma-scss',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
