@@ -16,4 +16,4 @@ mkdir -p dist
 mv bulma/sass dist
 mv bulma/_bulma.scss dist
 cd $DIR
-rm -Rf bulma
+rm -Rf bulma/
