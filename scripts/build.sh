@@ -15,5 +15,5 @@ rm -rf dist
 mkdir -p dist
 mv bulma/sass dist
 mv bulma/_bulma.scss dist
-cd $DIR/../bulma
-git reset --hard
+cd $DIR
+rm -Rf bulma
